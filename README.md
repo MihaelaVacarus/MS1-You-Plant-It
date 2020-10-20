@@ -1,43 +1,34 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<h1 align="center">You Plant It</h1>
 
-Welcome USER_NAME,
+[View the live project here.] (https://github.com/MihaelaVacarus/MS1-You-Plant-It)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## User Experience (UX)
 
-## Gitpod Reminders
+-   ### User stories
+    - #### As a user, I want to look up urban gardens in Dublin so that I can maybe grow my own.
+    - #### As a user, I want to see what can be planted so that I can get the fruit and veggies that I like.
+    - #### As a user, I want to check how much that's going to cost me so that I see if I can afford it.
+    - #### As a user, I want to meet people with similar interests so that we share ideas.
+    - #### As a user, I want to maybe join a workshop so that I learn more about the gardening basics.
+    - #### As a user, I want to be able to contact the company by sending an email/form, so that I am not bothered with calls.
+    
+-   ### The five elements of user experience
+    - #### The **strategy** plane. The focus is renting out urban garden spaces in Dublin, so for that I am creating a website. For the users, the site will provide information on how to get started with growing their own garden in the city, the community and events around it and the convenience of learning new skills while at it. For us as a company, we will get an online presence to display our services and increase rentals throughout different techniques.
+    - #### The **scope** plane. Features to be included: request more information form, photos gallery, downloadable activities calendar, send request for information form. Content will span from bundles section with information on pricing and what's included, events on social media such as creating healthy recipes with own products to engage users and information on available workshops to learn more about gardening. 
+    - #### The **structure** plane. On the top side of the website the logo will be aligned in the upper left corner and moving along the line, the fixed navigation bar will be centered and contain five sections: ***Home, Gallery, Bundles, Events & Workshops and Get In Touch***. Each section follows an intuitive approach for the user and easily meets expectations by following a similar design. The content is minimalistic, yet informative enough. 
+    - #### The **skeleton** plane. [Wireframes] (assets/docs/ms1-wireframes.pdf)
+    - #### The **surface** plane. For the font, I have chosen Montserrat Google font with a Sans Serif fallback. Favicon will be added and based on the logo to create cohesion and visual reassurement for the users.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Features
 
-`python3 -m http.server`
+## Technologies Used
 
-A blue button should appear to click: *Make Public*,
+### Languages Used
 
-Another blue button should appear to click: *Open Browser*.
+### Frameworks, Libraries & Programs Used
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Testing
 
-A blue button should appear to click: *Make Public*,
+## Deployment
 
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## Credits
