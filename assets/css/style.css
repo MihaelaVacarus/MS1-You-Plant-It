@@ -7,6 +7,10 @@
     border: 0;
 }
 
+body, html {
+    height: 100%;
+}
+
 .main-container {
     min-height: calc(100vh - 66px - 62px);
 }
@@ -22,6 +26,17 @@
 
 body > nav > a {
     padding-left: 15px;
+}
+
+/* Hero image */
+.hero-image {
+    background: url("../images/hero-plant.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 250px;
+    width: 100%;
 }
 
 /* Footer */
@@ -67,6 +82,10 @@ div.social-media {
 
     .main-container {
     min-height: calc(100vh - 66px - 56px);
+    }
+
+    .hero-image {
+        height: 150px;
     }
 
     footer {
