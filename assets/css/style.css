@@ -41,6 +41,25 @@ body > nav > a {
     width: 100%;
 }
 
+/* Gallery */
+.gallery-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.gallery-column {
+    flex: 33.3%;
+    max-width: 33.3%;
+    padding: 0 4px;
+}
+
+.gallery-column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}
+
 /* Footer */
 footer {
     width: 100%;
@@ -88,6 +107,11 @@ div.social-media {
 
     .hero-image {
         height: 150px;
+    }
+
+    .gallery-column {
+        flex: 100%;
+        max-width: 100%;
     }
 
     footer {
