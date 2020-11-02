@@ -60,6 +60,15 @@ body > nav > a {
     width: 100%;
 }
 
+/* Bundles */
+.my-list-group {
+    border: 1px solid #036016;
+}
+
+.about-bundle {
+    font-weight: 500;
+}
+
 /* Footer */
 footer {
     width: 100%;
