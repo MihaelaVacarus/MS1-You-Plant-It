@@ -69,6 +69,11 @@ body > nav > a {
     font-weight: 500;
 }
 
+/* Events & Workshops */
+.about-activities {
+    font-weight: 500;
+}
+
 /* Footer */
 footer {
     width: 100%;
