@@ -21,6 +21,7 @@ body, html {
     font-family: Montserrat, sans-serif;
 }
 
+/* Credit for how to keep footer at the bottom https://youtu.be/hK_v6FNIFK0 */
 .main-container {
     min-height: calc(100vh - 66px - 62px);
 }
