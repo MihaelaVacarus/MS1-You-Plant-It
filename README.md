@@ -20,7 +20,8 @@
     - #### The **strategy** plane. The focus is renting out urban garden spaces in Dublin, so for that I am creating a website. For the users, the site will provide information on how to get started with growing their own garden in the city, the community and events around it and the convenience of learning new skills while at it. For us as a company, we will get an online presence to display our services and increase rentals throughout different techniques.
     - #### The **scope** plane. Features to be included: request more information form, photos gallery, downloadable activities calendar, send request for information form. Content will span from bundles section with information on pricing and what's included, events on social media such as creating healthy recipes with own products to engage users and information on available workshops to learn more about gardening. 
     - #### The **structure** plane. On the top side of the website the logo will be aligned in the upper left corner and moving along the line, the fixed navigation bar will be centered and contain five sections: ***Home, Gallery, Bundles, Events & Workshops and Get In Touch***. Each section follows an intuitive approach for the user and easily meets expectations by following a similar design. The content is minimalistic, yet informative enough. 
-    - #### The **skeleton** plane. [Wireframes] (assets/docs/ms1-wireframes.pdf)
+    - #### The **skeleton** plane 
+        [Wireframes](assets/docs/ms1-wireframes.pdf)
     - #### The **surface** plane. For the font, I have chosen Montserrat Google font with a Sans Serif fallback. Favicon will be added and based on the logo to create cohesion and visual reassurement for the users.
 
 -   ### Design
@@ -31,7 +32,8 @@
     - #### Imagery 
         - All pages feature a colorful hero image of a plant. Exceptionally and intentionally, this has not been included in the Gallery page to avoid visual overload for users. In addition, many icons have been included throughout the pages in order to convey meaning and/or support the content.
 
--   ### [Wireframes](assets/docs/ms1-wireframes.pdf). Some small changes have been made to the original wireframes:
+-   ### [Wireframes](assets/docs/ms1-wireframes.pdf). 
+    Some small changes have been made to the original wireframes:
     - #### **Home** 
         - In the original wireframe, for the navigation menu, the logo is centered. Upon doing some research online for best UX, I learned that logos are usually placed on the left and navigation menus are on the right. I decided to keep move the logo on the left, but keep the menu centered because I found it aesthetically pleasing and coherent with the centered content in the other pages.
         - The chronology and callout button have also been replaced by two sections detailing what the founders' story is and their vision for the product. This is because I realized in this type of business a chronology would not make much sense because of the brief history they have. Regarding the callout, I figured it would make more sense to have it afterwards, in the other pages, once the user has a chance to skim through the content.
@@ -70,17 +72,17 @@
     - FreeLogoDesign was used to create the website's logo.
 4. [Favicon.ico & App Icon Generator](https://www.favicon-generator.org/):
     - Favicon has been used to generate the favicon based on the logo image.
-5. [Google Fonts:](https://fonts.google.com/):
+5. [Google Fonts](https://fonts.google.com/):
     - Google font Montserrat was chosen for the website and imported to the stylesheet. 
-6. [Font Awesome:](https://fontawesome.com/):
+6. [Font Awesome](https://fontawesome.com/):
     - Font Awesome was used throughout the pages to illustrate and complement content, as well as improve UX.
 7. [JavaScript](https://www.javascript.com/):
     - Specific JS components provided by Bootstrap scripts were included so the elements used were responsive.
 8. [Git](https://git-scm.com/):
-    - Git was used for version control .
-9. [GitHub:](https://github.com/):
+    - Git was used for version control.
+9. [GitHub](https://github.com/):
     - GitHub was used to store the project's code.
-10. [Balsamiq:](https://balsamiq.com/):
+10. [Balsamiq](https://balsamiq.com/):
     - Balsamiq was used to create the [wireframes]((assets/docs/ms1-wireframes.pdf)) during early stages of the design process.
 11. [Pexels](https://www.pexels.com/):
     - All the images found on the site have been sourced from Pexels.
