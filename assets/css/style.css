@@ -153,6 +153,10 @@ div.social-media {
         height: 150px;
     }
 
+    body > div > section > h1 {
+        font-size: 32px;
+    }
+
     .gallery-column {
         -webkit-box-flex: 100%;
             -ms-flex: 100%;
