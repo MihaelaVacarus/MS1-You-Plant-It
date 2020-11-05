@@ -11,7 +11,7 @@
 -   ### User stories
     - #### As a user, I want to look up urban gardens in Dublin so that I can maybe grow my own.
     - #### As a user, I want to see what can be planted so that I can get the fruit and veggies that I like.
-    - #### As a user, I want to check how much that's going to cost me so that I see if I can afford it.
+    - #### As a user, I want to check how much that's going to cost me.
     - #### As a user, I want to meet people with similar interests so that we share ideas.
     - #### As a user, I want to maybe join a workshop so that I learn more about the gardening basics.
     - #### As a user, I want to be able to contact the company by sending an email/form, so that I am not bothered with calls.
@@ -88,6 +88,75 @@
     - All the images found on the site have been sourced from Pexels.
 
 ## Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+The results of this validation show a warning that the first sections in index, bundles, activities and contact don't have a heading. However, I ignored those as the actual headings are contained in the code in the subsequent sections.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+### Testing User Stories from User Experience (UX) Section
+
+- #### As a user, I want to look up urban gardens in Dublin so that I can maybe grow my own.
+    -  The website is optimized for SEO search through meta keywords that help user land on my page. 
+
+- #### As a user, I want to see what can be planted so that I can get the fruit and veggies that I like.
+    - Right when entering the homepage, the content in the story and vision sections help the user understand that the gardens that are grown are mainly for sourcing fruit and vegetables.
+    - The Gallery page reinforces the idea by showing a series of images of tomatoes, zucchinis, strawberries and other produce.
+    - The Bundles page also offers a pack of organic seeds for veggies in each package.
+    - Finally, in the PDF contained in the Workshops section, there are details about a coming talk on cultivating tropical fruit.
+- #### As a user, I want to check how much that's going to cost me.
+    - Information regarding prices can be requested by the user via social media, Whatsapp message and/or contact form. This is mentioned right below the bundles that we offer.
+    - Specific prices were not included, as the type of user who is looking to rent a space for a garden in the city, would probably not care as much about the price, but rather about the services being offered.
+- #### As a user, I want to meet people with similar interests so that we share ideas.
+    - The vision section on the homepage, already hints that gardening helps with socialising.
+    - The social media links present on all pages prompt people to follow us and engage in the conversations on social media.
+    - The events section on the activities page are designed to bring the community together.
+    - The PDF contained in the workshops section mentions that, after the workshops, there is usually drinks at a local pub for people to get together.
+- #### As a user, I want to maybe join a workshop so that I learn more about the gardening basics.
+    - The Events & Workshops page includes a section on courses with a designed PDF that covers all necessary info.
+- #### As a user, I want to be able to contact the company by sending an email/form, so that I am not bothered with calls.
+    - The Contact page has a contact form that allows users to ask for information without giving their phone number.
+    - Additionally, on that same page, users are given the option to send a Whatsapp message directly from the website, and so inquire for more info.
+
+### Further testing 
+
+- The Chrome extension [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) has been run and checked.
+- The [Am I Responsive](http://ami.responsivedesign.is/) website has been used to ensure responsiveness.
+- The website has been checked on several devices such as large desktop, laptop, Iphone phones (from 5 to 11) and several Android phones.
+- The website has been opened on Safari, Chrome and Mozilla both on phones and laptops to check for any display issues across browsers.
+- Family and friends have been asked to provide feedback and click around to flag any potential major issues.
+
+### Manual testing 
+
+- #### Below points have been checked as common to all pages:
+    - Navigation bar links work to and from all pages, both on mobile and large screens. So do the added effects when hovering over.
+    - Footer always stays at the bottom and social media links redirect to the sites correctly.
+    - Hero image (except on Gallery page) has an appropriate size and displays correctly with no overlaps.
+- #### Home:
+    - Text is of an appropriate size and nicely readable for both mobile and large devices.
+    - Images are displaying only on large and extra large screens, as predicted. 
+    - Icons balance out the proportions between text and imagery.
+- #### Gallery:
+    - The gallery is responsive on all devices and displays with all effects as expected.
+    - Spacing is appropriately used in order not to overload users.
+    - Minimalistic effect is achieved by delivering a clean and neat portrayal of the activities in the gardens.
+- #### Bundles:
+    - Responsiveness across devices is suitable for reading.
+    - Link to contact form redirects just fine.
+    - Use of icons helps with breathability across the used space. 
+    - Font size is appropriate.
+- #### Events & Workshops:
+    - Responsiveness across devices is suitable for reading.
+    - PDFs for both sections open correctly in a new tab.
+    - The content in the PDFs is coherent with the branding and color scheme used on the website.
+    - Content is appropriate and conveyed with a suitable font size. 
+    - Buttons style is minimalistic and coherent with the style used throughout the rest of the website. 
+- #### Get In Touch:
+    - Sections are fully responsive on all sort of devices.
+    - Link to location redirects correctly to GoogleMaps.
+    - Link to Whatsapp redirects correctly to Whatsapp with a prefilled message asking for more info.
+    - Content is appropriate and includes time zone for users accessing the site from other countries.
+    - Form requests all fields as mandatory in order to be sent.
+    - Button style is big to be easily clicked on mobile and style is minimalistic and coherent with the rest of buttons.
 
 ## Deployment
 
