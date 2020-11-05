@@ -164,4 +164,17 @@ The project has been written in [Gitpod](https://www.gitpod.io/) and I have used
 
 ## Deployment
 
+### GitHub pages
+
+The project was deployed to GitHub Pages using the following steps:
+
+1. Log in to GitHub and locate the [project's repository](https://github.com/MihaelaVacarus/MS1-You-Plant-It).
+2. Click on the Settings button and scroll down until the GitHub Pages section.
+3. Under source, in the Branch dropdown, select "Master" and click Save. 
+4. In the same location, right after, the link to the live page will be made available.
+
+The project can be [cloned](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) or [forked](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
+For more information on how to do so, please follow the links.
+
+
 ## Credits
