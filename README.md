@@ -1,6 +1,6 @@
 <h1 align="center">You Plant It</h1>
 
-[View the live project here.](https://github.com/MihaelaVacarus/MS1-You-Plant-It)
+[View the live project here.](https://mihaelavacarus.github.io/MS1-You-Plant-It/index.html)
 
 **You Plant It** is the official website for Milestone Project 1. Designed to be responsive on all sort of devices, the advertised product sells potential customers the possibility of having their own urban garden in Dublin city.
 
