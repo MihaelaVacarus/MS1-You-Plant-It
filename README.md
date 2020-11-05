@@ -55,6 +55,12 @@
 
 -   Interactive elements
 
+### Bonus Features
+#### Features left to implement are:
+- 360° virtual view of the gardens.
+- Multilingual site with European Spanish version.
+- Detailed allotments map illustrating the layout of the gardens and facilities.
+
 ## Technologies Used
 
 ### Languages Used
@@ -86,6 +92,10 @@
     - Balsamiq was used to create the [wireframes]((assets/docs/ms1-wireframes.pdf)) during early stages of the design process.
 11. [Pexels](https://www.pexels.com/):
     - All the images found on the site have been sourced from Pexels.
+12. [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en):
+    - The extension was used to pick up colors from the images I had selected.
+13. [Coolors](https://coolors.co/):
+    - This was used to check what palette would be suitable to use on my PDFs, based on the images I had.
 
 ## Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -176,5 +186,24 @@ The project was deployed to GitHub Pages using the following steps:
 The project can be [cloned](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository) or [forked](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo).
 For more information on how to do so, please follow the links.
 
-
 ## Credits
+
+### Code 
+- Bootstrap has been used throughout the site for responsive elements and additional styling.
+- [Solution](https://youtu.be/hK_v6FNIFK0) provided by Product Designer Academy was used to keep footer at the bottom of the page.
+- Ian Lunn's class for hovering effects from [forked repository](https://ianlunn.github.io/Hover/).
+- Inspiration for contact form from [Pro Web](https://youtu.be/wIH86qpmsKo) Youtube tutorial.
+
+### Content
+
+All content was written by the developer.
+
+### Media 
+- All images are sourced from [Pexels](https://www.pexels.com/), a free stock media library.
+- All icons are sourced from [FontAwesome](https://fontawesome.com/).
+- The logo has been designed using [FreeLogoDesign](https://www.freelogodesign.org/).
+
+### Acknowledgements
+- My mentor Allen Thomas Varghese for his feedback and advice throughout the different phases of the project.
+- Slack community for technical support with my questions on Github version control commands.
+- CI for the interactive lessons that allowed me further build on that knowledge.
