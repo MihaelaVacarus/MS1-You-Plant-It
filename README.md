@@ -121,6 +121,7 @@ The results of this validation show a warning that the first sections in index, 
 
 - The Chrome extension [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) has been run and checked.
 - The [Am I Responsive](http://ami.responsivedesign.is/) website has been used to ensure responsiveness.
+- Run style sheet code through [Autoprefixer CSS online](http://autoprefixer.github.io/) and pasted prefixed code back into the style sheet.
 - The website has been checked on several devices such as large desktop, laptop, Iphone phones (from 5 to 11) and several Android phones.
 - The website has been opened on Safari, Chrome and Mozilla both on phones and laptops to check for any display issues across browsers.
 - Family and friends have been asked to provide feedback and click around to flag any potential major issues.
