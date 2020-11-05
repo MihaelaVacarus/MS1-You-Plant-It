@@ -159,6 +159,9 @@ The results of this validation show a warning that the first sections in index, 
     - Form requests all fields as mandatory in order to be sent.
     - Button style is big to be easily clicked on mobile and style is minimalistic and coherent with the rest of buttons.
 
+## IDE and version control
+The project has been written in [Gitpod](https://www.gitpod.io/) and I have used [Git](https://git-scm.com/) for version control.
+
 ## Deployment
 
 ## Credits
