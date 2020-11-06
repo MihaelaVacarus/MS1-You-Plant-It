@@ -22,7 +22,7 @@
     - #### The **structure** plane. On the top side of the website the logo will be aligned in the upper left corner and moving along the line, the fixed navigation bar will be centered and contain five sections: ***Home, Gallery, Bundles, Events & Workshops and Get In Touch***. Each section follows an intuitive approach for the user and easily meets expectations by following a similar design. The content is minimalistic, yet informative enough. 
     - #### The **skeleton** plane 
         [Wireframes](assets/docs/ms1-wireframes.pdf)
-    - #### The **surface** plane. For the font, I have chosen Montserrat Google font with a Sans Serif fallback. Favicon will be added and based on the logo to create cohesion and visual reassurement for the users.
+    - #### The **surface** plane. For the font, I have chosen Montserrat Google font with a Sans Serif fallback. Favicon will be added and based on the logo to create cohesion and visual reassurance for the users.
 
 -   ### Design
     - #### Color Scheme 
@@ -34,6 +34,7 @@
 
 -   ### [Wireframes](assets/docs/ms1-wireframes.pdf). 
     Some small changes have been made to the original wireframes:
+    - #### I decided to take out the scroll back to top bottom, as the content is not so extensive, and also this feature would require JavaScript, which I have not learned yet.
     - #### **Home** 
         - In the original wireframe, for the navigation menu, the logo is centered. Upon doing some research online for best UX, I learned that logos are usually placed on the left and navigation menus are on the right. I decided to keep move the logo on the left, but keep the menu centered because I found it aesthetically pleasing and coherent with the centered content in the other pages.
         - The chronology and callout button have also been replaced by two sections detailing what the founders' story is and their vision for the product. This is because I realized in this type of business a chronology would not make much sense because of the brief history they have. Regarding the callout, I figured it would make more sense to have it afterwards, in the other pages, once the user has a chance to skim through the content.
@@ -46,7 +47,7 @@
         - Another download button has been included for the events. This way, users can check either events or workshops that open in a new tab, while browsing other pages on the main website.
         - Additionally, each card now includes an image on top to avoid that much text.
     - #### **Get in Touch**
-        - For this section, I included the location of the gardens and a phone number with direct links to GoogleMaps and Whatsapp respectively.
+        - For this section, I included the location of the gardens and a phone number with direct links to GoogleMaps and WhatsApp respectively.
         - The title of the section has been changed to "Leaf us a comment".
         - The "Send" button has been aligned to the left, in line with the content.
 
@@ -125,7 +126,7 @@ The results of this validation show a warning that the first sections in index, 
     - The Events & Workshops page includes a section on courses with a designed PDF that covers all necessary info.
 - #### As a user, I want to be able to contact the company by sending an email/form, so that I am not bothered with calls.
     - The Contact page has a contact form that allows users to ask for information without giving their phone number.
-    - Additionally, on that same page, users are given the option to send a Whatsapp message directly from the website, and so inquire for more info.
+    - Additionally, on that same page, users are given the option to send a WhatsApp message directly from the website, and so inquire for more info.
 
 ### Further testing 
 
