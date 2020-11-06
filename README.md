@@ -115,7 +115,7 @@ The results of this validation show a warning that the first sections in index, 
     - The Bundles page also offers a pack of organic seeds for veggies in each package.
     - Finally, in the PDF contained in the Workshops section, there are details about a coming talk on cultivating tropical fruit.
 - #### As a user, I want to check how much that's going to cost me.
-    - Information regarding prices can be requested by the user via social media, Whatsapp message and/or contact form. This is mentioned right below the bundles that we offer.
+    - Information regarding prices can be requested by the user via social media, WhatsApp message and/or contact form. This is mentioned right below the bundles that we offer.
     - Specific prices were not included, as the type of user who is looking to rent a space for a garden in the city, would probably not care as much about the price, but rather about the services being offered.
 - #### As a user, I want to meet people with similar interests so that we share ideas.
     - The vision section on the homepage, already hints that gardening helps with socialising.
@@ -165,7 +165,7 @@ The results of this validation show a warning that the first sections in index, 
 - #### Get In Touch:
     - Sections are fully responsive on all sort of devices.
     - Link to location redirects correctly to GoogleMaps.
-    - Link to Whatsapp redirects correctly to Whatsapp with a prefilled message asking for more info.
+    - Link to WhatsApp redirects correctly to WhatsApp with a prefilled message asking for more info.
     - Content is appropriate and includes time zone for users accessing the site from other countries.
     - Form requests all fields as mandatory in order to be sent.
     - Button style is big to be easily clicked on mobile and style is minimalistic and coherent with the rest of buttons.
