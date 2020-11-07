@@ -90,7 +90,7 @@
 9. [GitHub](https://github.com/):
     - GitHub was used to store the project's code.
 10. [Balsamiq](https://balsamiq.com/):
-    - Balsamiq was used to create the [wireframes]((assets/docs/ms1-wireframes.pdf)) during early stages of the design process.
+    - Balsamiq was used to create the [wireframes](assets/docs/ms1-wireframes.pdf) during early stages of the design process.
 11. [Pexels](https://www.pexels.com/):
     - All the images found on the site have been sourced from Pexels.
 12. [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en):
