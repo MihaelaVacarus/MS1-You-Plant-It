@@ -51,9 +51,43 @@ body > nav > a {
 }
 
 /* About company */
-.homepage-section {
-    letter-spacing: 1px;
-    font-weight: 500;
+#homepage {
+    padding: 30px;
+}
+
+.vision-section,
+.story-section {
+    padding: 20px;
+    display: flex;
+}
+
+.vision-section {
+    flex-direction: column-reverse;
+}
+
+.story-section {
+    flex-direction: column;
+}
+
+#homepage > div.media.story-section > img,
+#homepage > div.media.vision-section > img {
+        width: 640px;
+        height: auto;
+        align-self: center;
+        padding: 10px;
+}
+
+#homepage > div.media.story-section > div > h1,
+#homepage > div.media.vision-section > div > h1 {
+    padding: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+#homepage > div.media.story-section > div > p,
+#homepage > div.media.vision-section > div > p {
+    padding: 10px;
+    text-align: justify;
 }
 
 /* Gallery */
@@ -180,14 +214,13 @@ div.social-media {
     }
 }
 
-@media screen and (min-width: 1200px){
-    .homepage-section {
-        padding: 50px !important;
+@media screen and (min-width: 1201px){
+    .story-section {
+    display: flex;
+    flex-direction: row;
     }
-    body > div > section:nth-child(2) > div.media.py-3.homepage-section > div > p {
-        padding-right: 20px;
-    }
-    body > div > section:nth-child(2) > div.media.pb-3.homepage-section > img {
-        padding-right: 24px;
+    .vision-section {
+    display: flex;
+    flex-direction: row;
     }
 }
