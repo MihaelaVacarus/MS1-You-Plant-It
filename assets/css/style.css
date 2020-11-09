@@ -91,6 +91,11 @@ body > nav > a {
 }
 
 /* Gallery */
+.about-gallery {
+    text-align: justify;
+    padding: 10px 50px;
+}
+
 .gallery-row {
     display: -webkit-box;
     display: -ms-flexbox;
