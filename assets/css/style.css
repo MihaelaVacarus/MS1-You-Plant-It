@@ -58,22 +58,32 @@ body > nav > a {
 .vision-section,
 .story-section {
     padding: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
 }
 
 .vision-section {
-    flex-direction: column-reverse;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
 }
 
 .story-section {
-    flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
 }
 
 #homepage > div.media.story-section > img,
 #homepage > div.media.vision-section > img {
         width: 640px;
         height: auto;
-        align-self: center;
+        -ms-flex-item-align: center;
+            -ms-grid-row-align: center;
+            align-self: center;
         padding: 10px;
 }
 
@@ -236,11 +246,21 @@ div.social-media {
 
 @media only screen and (min-width: 1200px){
     .story-section {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
     }
     .vision-section {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: row;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
     }
 }
