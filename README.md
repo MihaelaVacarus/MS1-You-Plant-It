@@ -101,8 +101,9 @@
 ## Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
-The results of this validation show a warning that the first sections in index, bundles, activities and contact don't have a heading. However, I ignored those as the actual headings are contained in the code in the subsequent sections.
+The results of this validation show a warning that the first sections in index, bundles, activities and contact don't have a heading. However, I confirmed with my mentor that I can safely ignore those as the actual headings are contained in the code in the subsequent sections.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+No errors found when running the testing.
 
 ### Testing User Stories from User Experience (UX) Section
 
