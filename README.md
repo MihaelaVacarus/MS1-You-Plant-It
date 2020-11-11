@@ -36,16 +36,16 @@
     Some small changes have been made to the original wireframes:
     - #### I decided to take out the scroll back to top bottom, as the content is not so extensive, and also this feature would require JavaScript, which I have not learned yet.
     - #### **Home** 
-        - In the original wireframe, for the navigation menu, the logo is centered. Upon doing some research online for best UX, I learned that logos are usually placed on the left and navigation menus are on the right. I decided to keep move the logo on the left, but keep the menu centered because I found it aesthetically pleasing and coherent with the centered content in the other pages.
-        - The chronology and callout button have also been replaced by two sections detailing what the founders' story is and their vision for the product. This is because I realized in this type of business a chronology would not make much sense because of the brief history they have. Regarding the callout, I figured it would make more sense to have it afterwards, in the other pages, once the user has a chance to skim through the content.
+        - In the original wireframe, for the navigation menu, the logo is centered. Upon doing some research online for best UX, I learned that logos are usually placed on the left and navigation menus are on the right. I decided to move the logo to the left, but keep the menu centered because I found it aesthetically pleasing and coherent with the centered content on the other pages.
+        - The chronology and callout button have also been replaced by two sections detailing what the founders' story is and their vision for the product. This is because I realized that for this type of business, a chronology would not make much sense because of the brief history they have. Regarding the callout, I figured it would make more sense to have it afterwards, in the other pages, once the user has a chance to skim through the content.
     - #### **Gallery**
         - For the mobile view, a carousel would be difficult to visualize, so I have changed it in a way pictures are stacked on top of each other on smaller devices.
-        - The hero image I decided to take out because there are many pictures on this page, and it would be too much all together.
+        - The hero image I decided to take out because there are many pictures on this page, and it would be too much all of them together.
     - #### **Bundles**
-        - Bundles now are introduced by a small paragraph with an icon and below them a line has been included to display information on how to learn more about the prices and link to contact form.
+        - Bundles now are introduced by a small paragraph with an icon and below them a line has been included to display information on how to learn more about the prices and a link to the contact form.
     - #### **Events & Workshops**
         - Another download button has been included for the events. This way, users can check either events or workshops that open in a new tab, while browsing other pages on the main website.
-        - Additionally, each card now includes an image on top to avoid that much text.
+        - Additionally, each card now includes an image on top to avoid that much amount of text.
     - #### **Get in Touch**
         - For this section, I included the location of the gardens and a phone number with direct links to GoogleMaps and WhatsApp respectively.
         - The title of the section has been changed to "Leaf us a comment".
@@ -57,7 +57,7 @@
 -   Interactive elements
 
 ### Bonus Features
-#### Features left to implement are:
+#### Features left to implement on next updates of the website are:
 - 360° virtual view of the gardens.
 - Multilingual site with European Spanish version.
 - Detailed allotments map illustrating the layout of the gardens and facilities.
@@ -82,7 +82,7 @@
 5. [Google Fonts](https://fonts.google.com/):
     - Google font Montserrat was chosen for the website and imported to the stylesheet. 
 6. [Font Awesome](https://fontawesome.com/):
-    - Font Awesome was used throughout the pages to illustrate and complement content, as well as improve UX.
+    - Font Awesome was used throughout the pages to illustrate and complement the content, as well as improve UX.
 7. [JavaScript](https://www.javascript.com/):
     - Specific JS components provided by Bootstrap scripts were included so the elements used were responsive.
 8. [Git](https://git-scm.com/):
@@ -100,18 +100,18 @@
 
 ## Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
-The results of this validation show a warning that the first sections in index, bundles, activities and contact don't have a heading. However, I confirmed with my mentor that I can safely ignore those as the actual headings are contained in the code in the subsequent sections.
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [W3C Markup Validator](https://validator.w3.org/#validate_by_input): 
+The results of this validation show a warning that the first sections in index, bundles, activities and contact don't have a heading. However, I confirmed with my mentor that I can safely ignore those, as the actual headings are contained in the code in the subsequent sections.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): 
 No errors found when running the testing.
 
 ### Testing User Stories from User Experience (UX) Section
 
 - #### As a user, I want to look up urban gardens in Dublin so that I can maybe grow my own.
-    -  The website is optimized for SEO search through meta keywords that help user land on my page. 
+    -  The website is optimized for SEO search through meta keywords that help users land on my page. 
 
 - #### As a user, I want to see what can be planted so that I can get the fruit and veggies that I like.
-    - Right when entering the homepage, the content in the story and vision sections help the user understand that the gardens that are grown are mainly for sourcing fruit and vegetables.
+    - Right when entering the Home page, the content in the story and vision sections help the user understand that the gardens that are grown are mainly for sourcing fruit and vegetables.
     - The Gallery page reinforces the idea by showing a series of images of tomatoes, zucchinis, strawberries and other produce.
     - The Bundles page also offers a pack of organic seeds for veggies in each package.
     - Finally, in the PDF contained in the Workshops section, there are details about a coming talk on cultivating tropical fruit.
@@ -119,7 +119,7 @@ No errors found when running the testing.
     - Information regarding prices can be requested by the user via social media, WhatsApp message and/or contact form. This is mentioned right below the bundles that we offer.
     - Specific prices were not included, as the type of user who is looking to rent a space for a garden in the city, would probably not care as much about the price, but rather about the services being offered.
 - #### As a user, I want to meet people with similar interests so that we share ideas.
-    - The vision section on the homepage, already hints that gardening helps with socialising.
+    - The vision section on the Home page already hints that gardening helps with socialising.
     - The social media links present on all pages prompt people to follow us and engage in the conversations on social media.
     - The events section on the activities page are designed to bring the community together.
     - The PDF contained in the workshops section mentions that, after the workshops, there is usually drinks at a local pub for people to get together.
@@ -127,12 +127,13 @@ No errors found when running the testing.
     - The Events & Workshops page includes a section on courses with a designed PDF that covers all necessary info.
 - #### As a user, I want to be able to contact the company by sending an email/form, so that I am not bothered with calls.
     - The Contact page has a contact form that allows users to ask for information without giving their phone number.
-    - Additionally, on that same page, users are given the option to send a WhatsApp message directly from the website, and so inquire for more info.
+    - Additionally, on that same page, users are given the option to send a WhatsApp message directly from the website to inquire for more info.
 
 ### Further testing 
 
 - The Chrome extension [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en) has been run and checked.
 - The [Am I Responsive](http://ami.responsivedesign.is/) website has been used to ensure responsiveness.
+- Website tested on [Mobile-Friendly Test - Google Search Console](https://search.google.com/test/mobile-friendly) and validated correctly.
 - Run style sheet code through [Autoprefixer CSS online](http://autoprefixer.github.io/) and pasted prefixed code back into the style sheet.
 - The website has been checked on several devices such as large desktop, laptop, Iphone phones (from 5 to 11) and several Android phones.
 - The website has been opened on Safari, Chrome and Mozilla both on phones and laptops to check for any display issues across browsers.
@@ -146,7 +147,7 @@ No errors found when running the testing.
     - Hero image (except on Gallery page) has an appropriate size and displays correctly with no overlaps.
 - #### Home:
     - Text is of an appropriate size and nicely readable for both mobile and large devices.
-    - Images are displaying only on large and extra large screens, as predicted. 
+    - Images are rearranged as planned on the different screen sizes.
     - Icons balance out the proportions between text and imagery.
 - #### Gallery:
     - The gallery is responsive on all devices and displays with all effects as expected.
@@ -207,5 +208,5 @@ All content was written by the developer.
 
 ### Acknowledgements
 - My mentor Allen Thomas Varghese for his feedback and advice throughout the different phases of the project.
-- Slack community for technical support with my questions on Github version control commands.
+- Slack community for technical support with my questions on Github version control commands and for providing feedback on my website.
 - CI for the interactive lessons that allowed me further build on that knowledge.
