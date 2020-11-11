@@ -98,6 +98,11 @@
 13. [Coolors](https://coolors.co/):
     - This was used to check what palette would be suitable to use on my PDFs, based on the images I had.
 
+### General Resources 
+
+1. [W3Schools](https://www.w3schools.com/)
+2. [Stack Overflow](https://stackoverflow.com/)
+
 ## Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input): 
