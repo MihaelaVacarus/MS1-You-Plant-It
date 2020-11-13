@@ -114,10 +114,10 @@ No errors found when running the testing.
 
 - #### As a user, I want to look up urban gardens in Dublin so that I can maybe grow my own.
     -  The website is optimized for SEO search through meta keywords that help users land on my page. 
-
+    -  The title of the website has been used descriptively, so it's more intuitive when indexed in search engines.
 - #### As a user, I want to see what can be planted so that I can get the fruit and veggies that I like.
     - Right when entering the Home page, the content in the story and vision sections help the user understand that the gardens that are grown are mainly for sourcing fruit and vegetables.
-    - The Gallery page reinforces the idea by showing a series of images of tomatoes, zucchinis, strawberries and other produce.
+    - The Gallery page reinforces the idea by showing and explaining a series of images of tomatoes, zucchinis, strawberries and other produce. 
     - The Bundles page also offers a pack of organic seeds for veggies in each package.
     - Finally, in the PDF contained in the Workshops section, there are details about a coming talk on cultivating tropical fruit.
 - #### As a user, I want to check how much that's going to cost me.
@@ -131,8 +131,8 @@ No errors found when running the testing.
 - #### As a user, I want to maybe join a workshop so that I learn more about the gardening basics.
     - The Events & Workshops page includes a section on courses with a designed PDF that covers all necessary info.
 - #### As a user, I want to be able to contact the company by sending an email/form, so that I am not bothered with calls.
-    - The Contact page has a contact form that allows users to ask for information without giving their phone number.
-    - Additionally, on that same page, users are given the option to send a WhatsApp message directly from the website to inquire for more info.
+    - The Get In Touch page has a contact form that allows users to ask for information without giving their phone number.
+    - Additionally, on that same page, users are also given the option to send a WhatsApp message directly from the website to inquire for more info.
 
 ### Further testing 
 
