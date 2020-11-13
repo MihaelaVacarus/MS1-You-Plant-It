@@ -111,7 +111,7 @@ The results of this validation show a warning that the first sections in index, 
 No errors found when running the testing.
 
 ### Testing User Stories from User Experience (UX) Section
-
+#### User Stories have also been aligned with their corresponding screenshots in [this supporting document](assets/docs/user-stories.pdf).
 - #### As a user, I want to look up urban gardens in Dublin so that I can maybe grow my own.
     -  The website is optimized for SEO search through meta keywords that help users land on my page. 
     -  The title of the website has been used descriptively, so it's more intuitive when indexed in search engines.
