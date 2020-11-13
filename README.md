@@ -215,4 +215,4 @@ All content was written by the developer.
 ### Acknowledgements
 - My mentor Allen Thomas Varghese for his feedback and advice throughout the different phases of the project.
 - Slack community for technical support with my questions on Github version control commands and for providing feedback on my website.
-- CI for the interactive lessons that allowed me further build on that knowledge.
+- CI for the interactive lessons that allowed me to further build on that knowledge.
