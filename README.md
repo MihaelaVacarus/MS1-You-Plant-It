@@ -147,6 +147,7 @@ No errors found when running the testing.
 ### Manual testing 
 
 - #### Below points have been checked as common to all pages:
+    - Favicon is better seen on dark themes, so I recommend opening the website in a dark themed browser.
     - Navigation bar links work to and from all pages, both on mobile and large screens. So do the added effects when hovering over.
     - Footer always stays at the bottom and social media links redirect to the sites correctly.
     - Hero image (except on Gallery page) has an appropriate size and displays correctly with no overlaps.
